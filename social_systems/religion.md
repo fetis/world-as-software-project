@@ -1,0 +1,3 @@
+# Religon
+
+Religion is legacy
